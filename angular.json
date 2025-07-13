@@ -10,10 +10,14 @@
       "sourceRoot": "src",
       "prefix": "app",
       "architect": {
+        "deploy": {
+        "builder": "angular-cli-ghpages:deploy",
+        "options": {}
+        },
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/angular-hangman",
+            "outputPath": "dist/AngularHangman",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
