@@ -55,6 +55,7 @@ Este proyecto fue desarrollado como un desafío personal para refactorizar una a
 >🔄 Game restarts on pressing `Enter` or refreshing the page.
 >(ES) Se puede presionar `Enter` o recargando la página.
 
+<br>
 
 ## 📦 Tech Stack / Tecnologías
 
@@ -63,7 +64,7 @@ Este proyecto fue desarrollado como un desafío personal para refactorizar una a
 
 <br>
 
-- ✅ Angular Services (for state and theme)
+- ✅ Angular Services (for state and theme)  
 (ES)(Para la gestión de estados y tema visual)
 
 <br>
@@ -73,16 +74,15 @@ Este proyecto fue desarrollado como un desafío personal para refactorizar una a
 - ✅ JSON word list
 - ✅ GitHub Pages Deployment
 
----
-
 <br>
 
 ## 📸 Demo
 
 ![Gameplay](./demo1.gif)
-![Dark Mode](./demo2.gif)
 
----
+<br>
+
+![Dark Mode](./demo2.gif)
 
 <br>
 
