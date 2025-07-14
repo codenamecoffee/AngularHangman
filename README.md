@@ -6,12 +6,9 @@
 <br>
 
 * 🛠️ A full rewrite of my earlier [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) project made in React + Redux Toolkit.
-
 * (ES) Una reescritura completa de mi projecto previo [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) hecho con React + Redux Toolkit.
 
 <br>
-
----
 
 ## 🧠 Description / Descripción
 
@@ -21,7 +18,7 @@ This project was developed as a challenge to refactor a previous React app into 
 **ES**  
 Este proyecto fue desarrollado como un desafío personal para refactorizar una aplicación previa hecha en React. El objetivo fue entender mejor cómo Angular maneja el estado, los componentes y los servicios, y compararlo con el enfoque más funcional de React.
 
----
+
 
 ## 🧩 Features / Características
 
