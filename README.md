@@ -18,44 +18,43 @@ This project was developed as a challenge to refactor a previous React app into 
 **ES**  
 Este proyecto fue desarrollado como un desafío personal para refactorizar una aplicación previa hecha en React. El objetivo fue entender mejor cómo Angular maneja el estado, los componentes y los servicios, y compararlo con el enfoque más funcional de React.
 
-
+<br>
 
 ## 🧩 Features / Características
 
-- 🎨 Light and Dark theme toggle using a global service.
-- (ES) Modo claro/oscuro usando un servicio global.
+> 🎨 Light and Dark theme toggle using a global service.
+> (ES) Modo claro/oscuro usando un servicio global.
 
 <br>
 
-- 🧠 Random word selection from a local JSON list.
-- (ES) 
+> 🧠 Random word selection from a local JSON list.
+> (ES) Selección aleatoria de una palabra desde una lista local en formato JSON.
 
 <br>
 
-- 🎹 On-screen keyboard with hover effects and disabled keys after selection.
-- (ES) Teclado virtual en pantalla con efectos visuales al posicionarse sobre él y teclas deshabilitadas después de ser seleccionadas.
+>🎹 On-screen keyboard with hover effects and disabled keys after selection.
+>(ES) Teclado virtual en pantalla con efectos visuales al posicionarse sobre él y teclas deshabilitadas después de ser seleccionadas.
 
 <br>
 
-- 👀 Keyboard physical key support.
-- (ES) Soporte para jugar con el teclado físico. 
+>👀 Keyboard physical key support.
+>(ES) Soporte para jugar con el teclado físico. 
 
 <br>
 
-- 📱 Responsive layout.
-- (ES) Diseño responsive. 
+>📱 Responsive layout.
+>(ES) Diseño responsive. 
 
 <br>
 
-- 🧩 Clean modular architecture using Angular CLI and services.
-- (ES) Arquitectura limpia y nmodular usando Angular CLI y servicios.
+>🧩 Clean modular architecture using Angular CLI and services.
+>(ES) Arquitectura limpia y nmodular usando Angular CLI y servicios.
 
 <br>
 
-- 🔄 Game restarts on pressing `Enter` or refreshing the page.
-- (ES) Se puede presionar `Enter` o recargando la página.
+>🔄 Game restarts on pressing `Enter` or refreshing the page.
+>(ES) Se puede presionar `Enter` o recargando la página.
 
----
 
 ## 📦 Tech Stack / Tecnologías
 
