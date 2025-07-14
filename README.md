@@ -1,15 +1,13 @@
 # 🎯 AngularHangman
 
-🎮 A simple yet polished implementation of the classic Hangman game using **Angular**. 
-(ES) Una simple pero pulida implementación del clásico juego Hangman usando **Angular**.
+* 🎮 A simple yet polished implementation of the classic Hangman game using **Angular**.  
+* (ES) Una simple pero pulida implementación del clásico juego Hangman usando **Angular**.
 
 <br>
 
-🛠️ A full rewrite of my earlier [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) project made in React + Redux Toolkit.
+* 🛠️ A full rewrite of my earlier [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) project made in React + Redux Toolkit.
 
-<br>
-
-(ES) Una reescritura completa de mi projecto previo [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) hecho con React + Redux Toolkit.
+* (ES) Una reescritura completa de mi projecto previo [ReduxHangman](https://github.com/codenamecoffee/ReduxHangman) hecho con React + Redux Toolkit.
 
 <br>
 
